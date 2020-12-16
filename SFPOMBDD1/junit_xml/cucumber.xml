@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.166">
+<testcase classname="System Admin Login" name="Login with System Admin User ID" time="0.057">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Open Salesforce Application...........................................undefined
+When Salesforce login page title should be "Login | Salesforce".............skipped
+Then populate Username and Password fields "vedant.jagani@campingworld.com.test" and "Welcome2019*".skipped
+And user clicks on the login button.........................................skipped
+And Salesforce Home title shold be "Home | Salesforce"......................skipped
+Then user will close the application........................................skipped
+]]></failure>
+</testcase>
+</testsuite>
